@@ -1,0 +1,27 @@
+
+
+li {
+  display: inline;
+}
+
+img {
+  margin-left: 8%;
+}
+
+.firstItem {
+  margin-left: 0%;
+}
+
+#enbolden {
+  font-weight: bold;
+}
+
+p, .webLinks {
+  margin-right: auto;
+  margin-left: auto;
+  width: 70%;
+}
+
+p {
+  font-size: 22px;
+}
